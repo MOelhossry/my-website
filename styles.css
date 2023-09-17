@@ -1,0 +1,53 @@
+body {
+    background-size: cover;
+    background-image: url(bg1.jpg);
+    margin: 0;
+    text-align:left;}
+.title-text { font-weight: normal;
+    font-size:  20px;
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+    color: #EAECEC;}  
+    h1{margin: 0;
+        border: 0;
+    }
+h1:hover{
+    border: 0;
+    margin: 0;
+    font-weight: bold;
+    font: size 10px;
+    font-family: 'Sacramento', cursive;
+    text-shadow: 0 0 10px whitesmoke;
+}
+
+h2{ font-weight: bolder;
+    font: size 5.625rem;
+    font-family: 'Sacramento', cursive;
+    color: white;}
+    
+h2:hover{
+    font-weight: bolder;
+    font: size 5.625rem;
+    font-family: 'Sacramento', cursive;
+    text-shadow: 0 0 10px whitesmoke;
+}
+.middle-container {
+    border-left-width: 100px 0;
+    text-shadow: 0 0 10px whitesmoke;
+    font-weight: bolder;
+    text-align:center;
+    width: 100%;
+
+
+}
+hr {
+    box-shadow:0 0 10px whitesmoke;
+    width: 50%;
+}
+.bottom-container {
+    font-weight: bold;
+    text-shadow:0 0 10px whitesmoke;
+    text-align:center;
+    width: 100%;
+}
